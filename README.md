@@ -1,7 +1,5 @@
 # Philosophers - The Dining Philosophers Problem
 
-Welcome to the **Philosophers** project! In this challenge, you will dive into the world of **multithreading** and **mutexes**, simulating a group of philosophers sitting at a table, thinking, eating, and avoiding starvation.
-
 ## 📌 Features
 - 🧵 **Multi-threading**: Each philosopher is managed as a separate thread.
 - 🍴 **Mutex Locks**: Ensuring proper fork handling.
