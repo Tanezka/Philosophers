@@ -11,7 +11,6 @@ Welcome to the **Philosophers** project! In this challenge, you will dive into t
 ## 📂 Project Structure
 ```plaintext
 ├── philo/          # Mandatory part
-├── philo_bonus/    # Bonus part
 ├── includes/       # Header files
 ├── src/            # Source files
 ├── Makefile        # Compilation script
